@@ -1,4 +1,6 @@
-#  CF Worker 订阅网关
+#  Cloudflare Worker 部署 Sushi 注册脚本指南
+
+一键部署 · 自动注册 · 订阅链接生成
 
 本指南将引导您在 Cloudflare Worker 上部署一个自动注册 Sushi 账号并生成订阅链接的脚本。此方法高效便捷，可用于获取新的订阅内容
 
